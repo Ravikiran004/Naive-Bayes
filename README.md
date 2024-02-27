@@ -1,0 +1,1 @@
+Delve into the world of Naive Bayes classification, a probabilistic algorithm based on Bayes' theorem. This folder covers the theory behind Naive Bayes, its applications in text classification, spam filtering, and more. Practical examples and hands-on exercises using Python will enhance your understanding of this simple yet powerful classification algorithm.
